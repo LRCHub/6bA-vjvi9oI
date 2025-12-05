@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DIVINE",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-05T02:07:57.946137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Martha Divine",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/01_Martha_Divine_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Divine Eradication",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/02_A_Divine_Eradication_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heavenly Divine",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/03_Heavenly_Divine_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heavenly Divine Remix",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/04_Heavenly_Divine_Remix_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Divine",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/05_Divine_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Divine Love",
+      "artist": "Ultra Naté",
+      "has_synced": false,
+      "path": "select/06_Divine_Love_Ultra_Naté.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Fury Divine",
+      "artist": "Amon Amarth",
+      "has_synced": false,
+      "path": "select/07_A_Fury_Divine_Amon_Amarth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Only Divine Right",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/08_It's_Only_Divine_Right_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Divine",
+      "artist": "Sébastien Tellier",
+      "has_synced": true,
+      "path": "select/09_Divine_Sébastien_Tellier.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Divine (Danger Remix)",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/10_Divine_(Danger_Remix)_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Divine (Kasper Winding Remix)",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/11_Divine_(Kasper_Winding_Remix)_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Divine (Midnight Juggernauts Remix)",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/12_Divine_(Midnight_Juggernauts_Remix)_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Control the Divine",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/13_Control_the_Divine_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Divine Intervention",
+      "artist": "Slayer",
+      "has_synced": true,
+      "path": "select/14_Divine_Intervention_Slayer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIVINE",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_DIVINE_Ave_Mujica.txt"
+    }
+  ]
+}
